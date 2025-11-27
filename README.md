@@ -1,9 +1,58 @@
-<h1 align="center">Hello World, I'm Arfa Zaim Al Murtadlo</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"> 
-</p>
+<img src="https://i.imgur.com/Jn9Gd7O.png" width="120" style="border-radius:50%" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+# ✨ Arfa Zaim — 「アニメ × Coding」  
+*Welcome to my little corner of the internet (๑˃ᴗ˂)ﻭ💫*
+
+</div>
+
+---
+
+## 🍥 About Me
+- 🌱 Currently leveling up in **Nuxt.js, React.js, Laravel**
+- 📘 Working on **Sistem Informasi Ormawa**
+- 🎮 Creating a **Dark Fantasy RPG System** (anime vibes included!)
+- 🎓 Interested in **AR, Blockchain, Game Dev, AI**
+- ☕ Powered by coffee + late-night debugging episodes
+
+---
+
+## 🧩 Skill Tree (Anime Style)
+**🎨 Frontend:** Nuxt.js · Vue · React · TailwindCSS  
+**⚔️ Backend:** Laravel · PHP · Node.js  
+**📚 Database:** MySQL · PostgreSQL  
+**🔧 Tools:** Git · VSCode · Figma · Postman  
+
+---
+
+## 🌈 My Current Anime Arc (Projects)
+- 📘 **Sistem Informasi Ormawa** — Administrative saga  
+- 🧩 **RPG Fantasy System** — Elemental nations & world building arc  
+- 📚 **Research Tools Platform** — Academic adventure  
+- 💸 **React Finance App** — Budgeting but make it kawaii  
+
+---
+
+## 📊 GitHub Stats (Anime Pastel Theme)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=rose_pine" height="150" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=rose_pine" height="150" />
+
+</div>
+
+---
+
+## 💞 Let’s Connect
+- 🏮 Portfolio: *your website here*  
+- 💌 Email: *your email here*  
+- 🎏 LinkedIn: *your link here*
+
+---
+
+## 🌸 Anime Quote to End the Page
+> *“Even if the code breaks, your spirit must never break.” — やる気のエンジニア*  
+> (⁄ ⁄>⁄ ▽ ⁄<⁄ ⁄)♡
+
