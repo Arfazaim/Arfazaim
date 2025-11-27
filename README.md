@@ -65,9 +65,9 @@ React minimal system · data visualization
 # 🖥️ SYSTEM ANALYTICS
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=highcontrast" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=Arfazaim&show_icons=true&theme=highcontrast" height="150" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=highcontrast" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arfazaim&layout=compact&theme=highcontrast" height="150" />
 
 </div>
 
