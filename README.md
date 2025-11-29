@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="800"/>
-</p>
-
 <h1 align="center">🚀 Arfazaim - Digital Pilot</h1>
 
 <p align="center">
@@ -23,9 +19,6 @@ Currently piloting **full-stack development**, **AI projects**, and futuristic U
 ---
 
 ## 💻 Skills
-<p align="center">
-  <img src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif" width="400"/>
-</p>
 
 | Category        | Tech Stack |
 |-----------------|------------|
