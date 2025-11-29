@@ -37,10 +37,6 @@ I pilot projects like Franxx mechas: synchronized, bold, and futuristic.
 - **[MechaAI](https://github.com/Arfazaim/mechaai)** – AI-assisted mech simulator  
 - **[CyberCity](https://github.com/Arfazaim/cybercity)** – Interactive cyberpunk city simulator  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l41YtZOb9EUABnuqA/giphy.gif" width="600"/>
-</p>
-
 ---
 
 ## 📊 GitHub Stats
