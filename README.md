@@ -41,7 +41,6 @@ I pilot projects like Franxx mechas: synchronized, bold, and futuristic.
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arfazaim&show_icons=true&theme=dark&count_private=true"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arfazaim&theme=dark"/>
 </p>
 
