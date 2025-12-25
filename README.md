@@ -62,7 +62,7 @@ I pilot projects like Franxx mechas: synchronized, bold, and futuristic.
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
-  <a href="https://instagram.com/yourprofile"><img src="https://img.shields.io/badge/Instagram-E1306C?style=flat&logo=instagram&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/arfazaim"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/arfazaim"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
+  <a href="https://instagram.com/arfazaim"><img src="https://img.shields.io/badge/Instagram-E1306C?style=flat&logo=instagram&logoColor=white"/></a>
 </p>
