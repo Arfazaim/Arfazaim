@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Arfazaim - Digital Pilot</h1>
+<h1 align="center">🚀 ARFAZAIM - Digital Pilot</h1>
 
 <p align="center">
   Welcome to my cockpit. <br>
