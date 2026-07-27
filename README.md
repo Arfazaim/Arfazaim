@@ -24,7 +24,7 @@
 
 ```typescript
 const arfa = {
-  name:       "Arfa Zaim",
+  name:       "Arfa Zaim Al Murtadlo",
   role:       "Frontend Developer",
   location:   "Indonesia 🇮🇩",
   focus:      ["Web Development", "UI/UX", "Clean Code"],
